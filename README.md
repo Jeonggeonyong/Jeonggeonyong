@@ -11,7 +11,10 @@
 - 🎯 I'm focusing on **Digital Forensics**, with the ultimate goal of becoming a **Cyber Crime Investigator**.
 - 💬 Ask me about anything related to **Linux, C, Python, and CTFs**.
 - 📫 How to reach me: **[jeonggeonyong@gmail.com]**
-
+  
+<a href="https://solved.ac/jgy1483" target="_blank">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgy1483" alt="Solved.ac Profile"/>
+</a>
 ---
 
 ### 🛠️ My Skills (Tech Stack)
@@ -52,6 +55,8 @@ These are the main repositories I'm currently working on.
 | **[Security Knowledge Hub](https://github.com/Jeonggeonyong/security-knowledge-hub)** | 📚 A comprehensive hub for my cybersecurity studies, from core concepts to vulnerability analysis and **forensics**. |
 | **[CTF Writeups](https://github.com/Jeonggeonyong/writeup-repo)** | 🚩 My collection of solutions for various Capture The Flag (CTF) challenges.                                 |
 | **[Algorithm Solutions](https://github.com/Jeonggeonyong/baekjoon-repo)** | 💻 An archive of my solutions for algorithmic problems on Baekjoon Online Judge.                             |
+| **[voyage](https://github.com/Jeonggeonyong/voyage)** | 🏆 [K-PaaS Contest] An application developed to help prevent 'Jeonse' (Korean rental deposit) fraud. |
+| **[Randsomware](https://github.com/Jeonggeonyong/DKU-RED1)** | 🛡️ [DKU System Security] An academic project (Red Team 1) implementing C-based ransomware to test a FUSE-based defensive file system. |
 
 ---
 
@@ -62,3 +67,4 @@ These are the main repositories I'm currently working on.
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonggeonyong&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
