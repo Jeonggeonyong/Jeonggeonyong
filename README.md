@@ -15,6 +15,7 @@
 <a href="https://solved.ac/jgy1483" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgy1483" alt="Solved.ac Profile"/>
 </a>
+
 ---
 
 ### 🛠️ My Skills (Tech Stack)
