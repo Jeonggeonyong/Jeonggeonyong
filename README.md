@@ -9,7 +9,10 @@
 
 - 🎓 I'm currently a student in the **Department of Software Science** at **Dankook University**.
 - 🎯 I'm focusing on **Digital Forensics**, with the ultimate goal of becoming a **Cyber Crime Investigator**.
-- 💬 Ask me about anything related to **Linux, C, Python, and CTFs**.
+- 🚩 I am a member of the CTF team **JJJA**, where I specialize in the **Forensics** category.
+- 🌱 I’m currently diving deep into **ransomware mechanics** and their **defensive countermeasures**.
+- 🤝 I’m actively looking to collaborate on building and improving **open-source digital forensic tools**.
+- 💬 Ask me about anything related to **C, Linux, Forensics, and CTFs**.
 - 📫 How to reach me: **[jeonggeonyong@gmail.com]**
   
 <a href="https://solved.ac/jgy1483" target="_blank">
