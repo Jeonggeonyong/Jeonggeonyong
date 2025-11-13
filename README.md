@@ -66,6 +66,7 @@ These are the main repositories I'm currently working on.
 | **[Algorithm Solutions](https://github.com/Jeonggeonyong/baekjoon)** | 💻 An archive of my solutions for algorithmic problems on Baekjoon Online Judge.                             |
 | **[voyage](https://github.com/Jeonggeonyong/voyage)** | 🏆 [K-PaaS Contest] An application developed to help prevent 'Jeonse' (Korean rental deposit) fraud. |
 | **[Randsomware](https://github.com/Jeonggeonyong/DKU-RED1)** | 🛡️ [DKU System Security] An academic project (Red Team 1) implementing C-based ransomware to test a FUSE-based defensive file system. |
+| **[Tetris](https://github.com/Jeonggeonyong/drop-the-block)** | 🕹️ Classic Tetris game implemented in Java, primarily developed to master fundamental Object-Oriented Programming (OOP) concepts. |
 
 ---
 
