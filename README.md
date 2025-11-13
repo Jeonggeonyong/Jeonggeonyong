@@ -62,8 +62,8 @@ These are the main repositories I'm currently working on.
 | Repository                                                                    | Description                                                                                                  |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **[Security Knowledge Hub](https://github.com/Jeonggeonyong/security-knowledge-hub)** | 📚 A comprehensive hub for my cybersecurity studies, from core concepts to vulnerability analysis and **forensics**. |
-| **[CTF Writeups](https://github.com/Jeonggeonyong/writeup-repo)** | 🚩 My collection of solutions for various Capture The Flag (CTF) challenges.                                 |
-| **[Algorithm Solutions](https://github.com/Jeonggeonyong/baekjoon-repo)** | 💻 An archive of my solutions for algorithmic problems on Baekjoon Online Judge.                             |
+| **[CTF Writeups](https://github.com/Jeonggeonyong/ctf-writeups)** | 🚩 My collection of solutions for various Capture The Flag (CTF) challenges.                                 |
+| **[Algorithm Solutions](https://github.com/Jeonggeonyong/baekjoon)** | 💻 An archive of my solutions for algorithmic problems on Baekjoon Online Judge.                             |
 | **[voyage](https://github.com/Jeonggeonyong/voyage)** | 🏆 [K-PaaS Contest] An application developed to help prevent 'Jeonse' (Korean rental deposit) fraud. |
 | **[Randsomware](https://github.com/Jeonggeonyong/DKU-RED1)** | 🛡️ [DKU System Security] An academic project (Red Team 1) implementing C-based ransomware to test a FUSE-based defensive file system. |
 
