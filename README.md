@@ -53,6 +53,10 @@ Here are some of the technologies and tools I'm familiar with, categorized by fi
   <a href="https://frida.re/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Frida-480A8F?style=for-the-badge" alt="frida"/> </a>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonggeonyong&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
 
 ### 🚀 My Projects
@@ -74,7 +78,5 @@ These are the main repositories I'm currently working on.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeonggeonyong&show_icons=true&theme=radical&rank_icon=github" alt="Jeonggeonyong's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonggeonyong&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
